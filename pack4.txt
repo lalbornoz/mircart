@@ -1,4 +1,4 @@
 arab's entry for pack 4
 
-pic of Python: http://www.lucioillanes.de/ascii/pack4/arab-python.txt
-Preview: http://www.lucioillanes.de/ascii/pack4/arab-python.png
+pic of Python: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack4/arab-python.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack4/arab-python.png

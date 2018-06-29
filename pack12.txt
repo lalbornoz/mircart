@@ -1,13 +1,13 @@
 arab's entry for pack 12
 
-IN #MIRCART MIRC ART LOOKS @ YOU: http://www.lucioillanes.de/ascii/pack12/arab%2dlooksatyou.txt
-Preview: http://www.lucioillanes.de/ascii/pack12/arab%2dlooksatyou.png
+IN #MIRCART MIRC ART LOOKS @ YOU: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dlooksatyou.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dlooksatyou.png
 
-caku 'nana attack: http://www.lucioillanes.de/ascii/pack12/arab%2dnanas.txt
-Preview: http://www.lucioillanes.de/ascii/pack12/arab%2dnanas.png
+caku 'nana attack: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dnanas.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dnanas.png
 
-certificate pillow: http://www.lucioillanes.de/ascii/pack12/arab%2dpillow.txt
-Preview: http://www.lucioillanes.de/ascii/pack12/arab%2dpillow.png
+certificate pillow: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dpillow.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dpillow.png
 
-caku pineapple attack: http://www.lucioillanes.de/ascii/pack12/arab%2dpineapple.txt
-Preview: http://www.lucioillanes.de/ascii/pack12/arab%2dpineapple.png
+caku pineapple attack: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dpineapple.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack12/arab%2dpineapple.png

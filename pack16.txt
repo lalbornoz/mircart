@@ -1,7 +1,7 @@
 arab's entry for pack 16
  
-where do asciis go when nobodys looking at them: http://www.lucioillanes.de/ascii/pack16/arab%2dasciipub.txt
-Preview: http://www.lucioillanes.de/ascii/pack16/arab%2dasciipub.png
+where do asciis go when nobodys looking at them: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack16/arab%2dasciipub.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack16/arab%2dasciipub.png
 
-spoke learning 2d arrays: http://www.lucioillanes.de/ascii/pack16/arab%2dspokearray.txt
-Preview: http://www.lucioillanes.de/ascii/pack16/arab%2dspokearray.png
+spoke learning 2d arrays: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack16/arab%2dspokearray.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack16/arab%2dspokearray.png

@@ -1,7 +1,7 @@
 arab's entry for pack 19
 
-Lā yazālu lisānuka raṭban min ḏikrillāh : http://www.lucioillanes.de/ascii/pack19/arab%2dlayazalu.txt
-Preview: http://www.lucioillanes.de/ascii/pack19/arab%2dlayazalu.png
+Lā yazālu lisānuka raṭban min ḏikrillāh : https://raw.githubusercontent.com/lalbornoz/mircart/master/pack19/arab%2dlayazalu.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack19/arab%2dlayazalu.png
 
-#ARAB AND THE 51 KADES: http://www.lucioillanes.de/ascii/pack19/arab%2d51kades.txt
-Preview: http://www.lucioillanes.de/ascii/pack19/arab%2d51kades.png
+#ARAB AND THE 51 KADES: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack19/arab%2d51kades.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack19/arab%2d51kades.png

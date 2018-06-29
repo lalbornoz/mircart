@@ -1,10 +1,10 @@
 arab's entry for pack 7
 	
-ascii butterfly: http://www.lucioillanes.de/ascii/pack7/arab-asciibutterfly.txt
-Preview: http://www.lucioillanes.de/ascii/pack7/arab-asciibutterfly.png
+ascii butterfly: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-asciibutterfly.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-asciibutterfly.png
 
-mirc art fountain: http://www.lucioillanes.de/ascii/pack7/arab-fountain.txt
-Preview: http://www.lucioillanes.de/ascii/pack7/arab-fountain.png
+mirc art fountain: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-fountain.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-fountain.png
 
-Xia nü: http://www.lucioillanes.de/ascii/pack7/arab-xianu.txt
-Preview: http://www.lucioillanes.de/ascii/pack7/arab-xianu.png
+Xia nü: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-xianu.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack7/arab-xianu.png

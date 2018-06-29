@@ -1,58 +1,58 @@
 arab's entry for pack 1
 
-azulejo: http://www.lucioillanes.de/ascii/pack1/arab-azulejo.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-azulejo.png
+azulejo: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-azulejo.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-azulejo.png
 
-chrono, irl: http://www.lucioillanes.de/ascii/pack1/arab-chronoirl.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-chronoirl.png
+chrono, irl: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-chronoirl.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-chronoirl.png
 
-cloud: http://www.lucioillanes.de/ascii/pack1/arab-cloud.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-cloud.png
+cloud: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-cloud.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-cloud.png
 
-#EFNetNews at night: http://www.lucioillanes.de/ascii/pack1/arab-enn.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-enn.png
+#EFNetNews at night: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-enn.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-enn.png
 
-f1re: http://www.lucioillanes.de/ascii/pack1/arab-f1re.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-f1re.png
+f1re: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-f1re.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-f1re.png
 
-incog: http://www.lucioillanes.de/ascii/pack1/arab-incog.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-incog.png
+incog: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-incog.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-incog.png
 
-pic of kween at night: http://www.lucioillanes.de/ascii/pack1/arab-kweenatnight.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-kweenatnight.png
+pic of kween at night: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-kweenatnight.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-kweenatnight.png
 
-kween cursing vap0r with nocturnal death magic: http://www.lucioillanes.de/ascii/pack1/arab-kweenmagic.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-kweenmagic.png
+kween cursing vap0r with nocturnal death magic: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-kweenmagic.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-kweenmagic.png
 
-lion: http://www.lucioillanes.de/ascii/pack1/arab-lion1.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-lion1.png
+lion: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-lion1.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-lion1.png
 
-Bearded spoder lion of East EFnet: http://www.lucioillanes.de/ascii/pack1/arab-lion2.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-lion2.png
+Bearded spoder lion of East EFnet: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-lion2.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-lion2.png
 
-Your ASCII has been stolen by the ASCII mafia!!!: http://www.lucioillanes.de/ascii/pack1/arab-mafia.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-mafia.png
+Your ASCII has been stolen by the ASCII mafia!!!: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-mafia.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-mafia.png
 
-How To Use Opal For Dummies: http://www.lucioillanes.de/ascii/pack1/arab-opalguide.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-opalguide.png
+How To Use Opal For Dummies: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-opalguide.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-opalguide.png
 
-spoder: http://www.lucioillanes.de/ascii/pack1/arab-spoder.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-spoder.png
+spoder: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoder.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoder.png
 
-tree of many spokes: http://www.lucioillanes.de/ascii/pack1/arab-spoketree.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-spoketree.png
+tree of many spokes: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoketree.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoketree.png
 
-spoke: http://www.lucioillanes.de/ascii/pack1/arab-spoke.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-spoke.png
+spoke: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoke.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-spoke.png
 
-pic of vap0r: http://www.lucioillanes.de/ascii/pack1/arab-vap0r.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-vap0r.png
+pic of vap0r: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vap0r.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vap0r.png
 
-vapcat dreaming: http://www.lucioillanes.de/ascii/pack1/arab-vapcat.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-vapcat.png
+vapcat dreaming: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vapcat.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vapcat.png
 
-vxp's spirit cat: http://www.lucioillanes.de/ascii/pack1/arab-vxpcat.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-vxpcat.png
+vxp's spirit cat: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vxpcat.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-vxpcat.png
 
-zip: http://www.lucioillanes.de/ascii/pack1/arab-zip.txt
-Preview: http://www.lucioillanes.de/ascii/pack1/arab-zip.png
+zip: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-zip.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack1/arab-zip.png

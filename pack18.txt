@@ -1,10 +1,10 @@
 arab's entry for pack 18
 
-Sūratu l-Ḥadīd 57:4: http://www.lucioillanes.de/ascii/pack18/arab%2dwahuwama3akum.txt
-Preview: http://www.lucioillanes.de/ascii/pack18/arab%2dwahuwama3akum.png
+Sūratu l-Ḥadīd 57:4: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dwahuwama3akum.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dwahuwama3akum.png
 
-Sūratu ġāfir 40:60: http://www.lucioillanes.de/ascii/pack18/arab%2dwaqalarabbukum.txt
-Preview: http://www.lucioillanes.de/ascii/pack18/arab%2dwaqalarabbukum.png
+Sūratu ġāfir 40:60: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dwaqalarabbukum.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dwaqalarabbukum.png
 
-Jannānu yā Jannān: http://www.lucioillanes.de/ascii/pack18/arab%2dyajannan.txt
-Preview: http://www.lucioillanes.de/ascii/pack18/arab%2dyajannan.png
+Jannānu yā Jannān: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dyajannan.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack18/arab%2dyajannan.png
