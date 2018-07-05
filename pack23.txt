@@ -5,3 +5,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack23/arab%
 
 Qur'ān 13:3, sūratu r-Raʕd: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack23/arab%2dliqawmin.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack23/arab%2dliqawmin.png
+
+kade is lost: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack23/arab%2dkadeislost.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack23/arab%2dkadeislost.png
