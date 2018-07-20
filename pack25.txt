@@ -11,3 +11,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%
 
 OH NO! KADE PUT SPOKE'S COLOURS INSIDE A SCARY MAZE!: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2dspokemaze.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2dspokemaze.png
+
+#irc-dungeon: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2ddungeon.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2ddungeon.png
