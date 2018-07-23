@@ -14,3 +14,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%
 
 #irc-dungeon: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2ddungeon.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2ddungeon.png
+
+spoke lifts herself into arab's mIRC art monad and searches arab's time monad for hostile hidden effect monsters: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2dspokemonad.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack25/arab%2dspokemonad.png
