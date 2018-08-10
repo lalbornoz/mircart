@@ -5,3 +5,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%
 
 Do Kadely triples kadify the monokade rekadement prokaded ₖK is mono for Kade ∈ Kade?: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dtriples.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dtriples.png
+
+Does dzl form a complemented lattice?: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dladdizle.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dladizzle.png
