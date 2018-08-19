@@ -17,3 +17,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%
 
 kade clims Mt. Arab: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dmtarab.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dmtarab.png
+
+Happy Birthday Spoke: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dbdayspoke.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dbdayspoke.png
