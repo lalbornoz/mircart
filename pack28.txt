@@ -20,3 +20,6 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%
 
 Happy Birthday Spoke: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dbdayspoke.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dbdayspoke.png
+
+Conversational Staircase: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dstaircase.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack28/arab%2dstaircase.png
