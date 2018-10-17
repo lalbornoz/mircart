@@ -3,6 +3,9 @@ arab's entry for pack 34
 arab at the psychiatrist: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dpsych.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dpsych.png
 
+kade language: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.png
+
 spoke plans something: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dspokeplans.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dspokeplans.png
 
