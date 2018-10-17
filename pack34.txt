@@ -3,6 +3,9 @@ arab's entry for pack 34
 arab at the psychiatrist: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dpsych.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dpsych.png
 
+green square: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dsquare.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dsquare.png
+
 kade language: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.png
 
