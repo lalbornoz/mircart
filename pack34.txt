@@ -6,6 +6,9 @@ Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%
 green square: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dsquare.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dsquare.png
 
+howd i get here?: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dhowdiget.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dhowdiget.png
+
 kade language: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack34/arab%2dkadelang.png
 
