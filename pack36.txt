@@ -2,3 +2,6 @@ arab's entry for pack 36
 
 Seven (7) vap0rs: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack36/arab%2dvap0rs.txt
 Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack36/arab%2dvap0rs.png
+
+#arab sāmrī?: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack36/arab%2dsamri.txt
+Preview: https://raw.githubusercontent.com/lalbornoz/mircart/master/pack36/arab%2dsamri.png
